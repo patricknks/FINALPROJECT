@@ -1,0 +1,8 @@
+prefix=/home/patricknks/FINALPROJECT/my_workspace/devel/.private/libmavconn
+
+Name: libmavconn
+Description: Description of libmavconn
+Version: 1.13.0
+Cflags: -I/home/patricknks/FINALPROJECT/my_workspace/src/mavros/libmavconn/include -I/usr/include -I/home/patricknks/FINALPROJECT/my_workspace/devel/include
+Libs: -L${prefix}/lib -lmavconn /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libconsole_bridge.so.0.4
+Requires: 

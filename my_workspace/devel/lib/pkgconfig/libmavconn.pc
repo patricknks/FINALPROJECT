@@ -1,0 +1,1 @@
+/home/patricknks/FINALPROJECT/my_workspace/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc

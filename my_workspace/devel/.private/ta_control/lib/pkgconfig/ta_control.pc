@@ -1,0 +1,8 @@
+prefix=/home/patricknks/FINALPROJECT/my_workspace/devel/.private/ta_control
+
+Name: ta_control
+Description: Description of ta_control
+Version: 0.0.0
+Cflags: -I/home/patricknks/FINALPROJECT/my_workspace/src/finalproject/ta_control/include
+Libs: -L${prefix}/lib -lta_control
+Requires: geometry_msgs mavros_msgs roscpp rospy sensor_msgs std_msgs

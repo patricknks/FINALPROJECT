@@ -1,0 +1,8 @@
+prefix=/home/patricknks/FINALPROJECT/my_workspace/devel/.private/atom
+
+Name: atom
+Description: Description of atom
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

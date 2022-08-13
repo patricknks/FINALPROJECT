@@ -1,0 +1,1 @@
+/home/patricknks/FINALPROJECT/my_workspace/devel/.private/atom/share/atom/cmake/atomConfig-version.cmake

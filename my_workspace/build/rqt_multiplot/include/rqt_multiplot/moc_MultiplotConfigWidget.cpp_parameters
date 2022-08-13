@@ -1,0 +1,6 @@
+-DROS_BUILD_SHARED_LIBS=1
+-DROS_PACKAGE_NAME="rqt_multiplot"
+-DROSCONSOLE_BACKEND_LOG4CXX
+-o
+/home/patricknks/FINALPROJECT/my_workspace/build/rqt_multiplot/include/rqt_multiplot/moc_MultiplotConfigWidget.cpp
+/home/patricknks/FINALPROJECT/my_workspace/src/rqt_multiplot_plugin/include/rqt_multiplot/MultiplotConfigWidget.h

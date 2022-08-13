@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libmain_drone.so -o /home/patricknks/FINALPROJECT/my_workspace/devel/.private/ta_control/lib/libmain_drone.so CMakeFiles/main_drone.dir/src/ta_control/mydrone_gazebo.cpp.o 

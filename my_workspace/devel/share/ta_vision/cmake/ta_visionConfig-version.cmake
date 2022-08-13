@@ -1,0 +1,1 @@
+/home/patricknks/FINALPROJECT/my_workspace/devel/.private/ta_vision/share/ta_vision/cmake/ta_visionConfig-version.cmake

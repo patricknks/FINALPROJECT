@@ -1,0 +1,1 @@
+/home/patricknks/FINALPROJECT/my_workspace/devel/.private/rqt_multiplot/lib/python2.7/dist-packages/rqt_multiplot/__init__.py

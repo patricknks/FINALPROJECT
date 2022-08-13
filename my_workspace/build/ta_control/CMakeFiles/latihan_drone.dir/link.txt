@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,liblatihan_drone.so -o /home/patricknks/FINALPROJECT/my_workspace/devel/.private/ta_control/lib/liblatihan_drone.so CMakeFiles/latihan_drone.dir/src/ta_control/latihan_drone.cpp.o 

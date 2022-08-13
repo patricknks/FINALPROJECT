@@ -1,0 +1,7 @@
+set(ta_vision_SETUP_PY_SETUP_MODULE "distutils.core")
+set(ta_vision_SETUP_PY_VERSION "0.0.0")
+set(ta_vision_SETUP_PY_SCRIPTS "scripts")
+set(ta_vision_SETUP_PY_PACKAGES "ta_vision")
+set(ta_vision_SETUP_PY_PACKAGE_DIRS "src/ta_vision")
+set(ta_vision_SETUP_PY_MODULES "")
+set(ta_vision_SETUP_PY_MODULE_DIRS "")
